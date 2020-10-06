@@ -8,6 +8,8 @@ Verzeichnisstrucktur
             -Marker
         -Punktvector
 
+Die Positionen der Landmarks könen in Test Marker geändert werden.
+
 
 run config
     Programm läuft unter Python 3.7
